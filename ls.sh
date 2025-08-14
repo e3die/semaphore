@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Pokus cislo 1"
+ip a
