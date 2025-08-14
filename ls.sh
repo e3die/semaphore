@@ -1,2 +1,2 @@
 #!/bin/bash
-ip a
+sudo apt install mc
